@@ -2,6 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/wavl)](https://www.npmjs.com/package/wavl)
 [![deno](https://deno.land/badge/wavl/version)](https://deno.land/x/wavl)
+[![codecov](https://codecov.io/gh/publictheta/wavl-ts/branch/main/graph/badge.svg?token=0BSYB8N28G)](https://codecov.io/gh/publictheta/wavl-ts)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
